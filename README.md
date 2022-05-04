@@ -1,2 +1,2 @@
-# mchllnf.gitbuh.io
+# mchllnf.github.io
 Currículo
